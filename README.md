@@ -2,11 +2,11 @@
     <a href="https://www.adventofcss.com/">ADVENT OF CSS 2021</a>
 </h1>
 
-![Advent Of CSS 2021](https://github.com/codigocaballer/adventofcss-2021/blob/main/static/cover.jpeg)
+![Advent Of CSS 2021](https://github.com/codigocaballer/adventofcss-2021/blob/main/static/cover.png)
 
 | Challenge |                                            Logo                                               |                       Title                               |                    Description                                                                   |
 |:---------:|:---------------------------------------------------------------------------------------------:|:---------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
-|     1     |  ![Logo Reto 1](https://github.com/codigocaballer/adventofcss-2021/blob/main/static/1.png)  |        Pomodoro Timer                                     | [Link](https://github.com/codigocaballer/adventofcss-2021/blob/main/src/challenge1/README.md)  | 
+|     1     |  ![Logo Reto 1]![](https://github.com/codigocaballer/adventofcss-2021/blob/main/static/1.png =37x18)  |        Pomodoro Timer                                     | [Link](https://github.com/codigocaballer/adventofcss-2021/blob/main/src/challenge1/README.md)  | 
 |     2     |  ![Logo Reto 2](https://github.com/codigocaballer/adventofcss-2021/blob/main/static/2.png)  |        eCommerce component                                | [Link](https://github.com/codigocaballer/adventofcss-2021/blob/main/src/challenge2/README.md)  |
 |     3     |  ![Logo Reto 3](https://github.com/codigocaballer/adventofcss-2021/blob/main/static/3.png)  |        Keyboard                                           | [Link](https://github.com/codigocaballer/adventofcss-2021/blob/main/src/challenge3/README.md)  |
 |     4     |  ![Logo Reto 4](https://github.com/codigocaballer/adventofcss-2021/blob/main/static/4.png)  |        Computer keyboard                                  | [Link](https://github.com/codigocaballer/adventofcss-2021/blob/main/src/challenge4/README.md)  |
