@@ -6,7 +6,7 @@
 
 | Challenge |                                            Logo                                               |                       Title                               |                    Description                                                                   |
 |:---------:|:---------------------------------------------------------------------------------------------:|:---------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
-|     1     |  ![Logo Reto 1]![](https://github.com/codigocaballer/adventofcss-2021/blob/main/static/1.png =37x18)  |        Pomodoro Timer                                     | [Link](https://github.com/codigocaballer/adventofcss-2021/blob/main/src/challenge1/README.md)  | 
+|     1     |  <a href="url"><img src="https://github.com/codigocaballer/adventofcss-2021/blob/main/static/1.png" alt="Logo Challenge 1" height="18" width="37" ></a>  |        Pomodoro Timer                                     | [Link](https://github.com/codigocaballer/adventofcss-2021/blob/main/src/challenge1/README.md)  | 
 |     2     |  ![Logo Reto 2](https://github.com/codigocaballer/adventofcss-2021/blob/main/static/2.png)  |        eCommerce component                                | [Link](https://github.com/codigocaballer/adventofcss-2021/blob/main/src/challenge2/README.md)  |
 |     3     |  ![Logo Reto 3](https://github.com/codigocaballer/adventofcss-2021/blob/main/static/3.png)  |        Keyboard                                           | [Link](https://github.com/codigocaballer/adventofcss-2021/blob/main/src/challenge3/README.md)  |
 |     4     |  ![Logo Reto 4](https://github.com/codigocaballer/adventofcss-2021/blob/main/static/4.png)  |        Computer keyboard                                  | [Link](https://github.com/codigocaballer/adventofcss-2021/blob/main/src/challenge4/README.md)  |
@@ -33,4 +33,5 @@
                                                                                                                                                                         | [Link](https://github.com/codigocaballer/adventofcss-2021/blob/main/src/challenge1/README.md)  |
 
 ©[Amy Dutton](https://twitter.com/selfteachme)
+
 
